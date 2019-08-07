@@ -22,3 +22,32 @@ rm -rf sublime-config
 ```
 
 - 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。（ ctrl 跟 导引号 来呼叫出 command console ）
+
+### 插件说明
+1. ChineseLocalization
+  语言包功能，切换各国语言
+2. Ctags
+  函数跳转，我的电脑上是Alt+点击 函数名称，会跳转到相应的函数
+3. git
+  git 版本控制
+4. Vue Syntax Highlight
+  Vue语法高亮
+5. Vuejs Snippets
+6. AdvancedNewFile
+  快速创建文件
+7. Emmet(同时自动安装PyV8库）
+  一种快速编写html/css的方法
+8. pug
+9. Sass
+10. SyncedSideBar
+11. AutoFileName
+功能：快捷输入文件名(按Tab键或鼠标点击选中)
+12. Nodejs
+功能：node代码提示
+
+
+
+
+
+
+

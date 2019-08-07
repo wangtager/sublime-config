@@ -6,6 +6,9 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"CTags",
 		"Emmet",
 		"Git",
 		"Package Control",
