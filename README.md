@@ -1,27 +1,35 @@
-### Hello Sublime 3或2 Users
+### Sublime 插件和配置文件的版本控制
 
 我使用的操作系统是 Mac (目前是 Yosemite)，不同的操作系统，在 sublime
 配置上会有微小的差别。
 
-我使用 [Package
-Control](https://packagecontrol.io/installation)，所有我安装的包在 [Package
-Control.sublime-settings 文件](https://github.com/happypeter/sublime-config/blob/master/Package%20Control.sublime-settings)
+使用 [Package
+Control](https://packagecontrol.io/installation)，所有安装的包在 [Package
+Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blob/master/Package%20Control.sublime-settings)
  中都列出了。
 
 
 
-### 安装步骤
+### 使用步骤
 
-－ 在新系统上 sublime 3/2 安装好之后
+首先在新系统上 sublime 3/2 安装好之后
 
 ```console
-cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-git clone git@github.com:happypeter/sublime-config.git
-mv sublime-config/* .
-rm -rf sublime-config
+
+1. 找到sublime插件目录
+
+打开sumlime, 选择菜单栏-首选项-浏览插件目录，然后在目录下打开User文件夹
+(mac系统下的插件地址是~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/)
+(windows下的插件地址是C:\Users\pp\AppData\Roaming\Sublime Text 3\Packages\User)
+2. cd 到插件的地址
+3. git clone https://github.com/wangtager/sublime-config.git
+4. 把sublime 插件和配置都存放在自己的git仓库，像操作其它项目一样对配置进行版本控制。
+`一次配置，终生有效。再也不用担心换电脑，重新一个一个的安装插件和配置了`
+
 ```
 
 - 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。（ ctrl 跟 导引号 来呼叫出 command console ）
+- 如果已经安装了packagecontrol， 打开命令栏Ctrl+Shift+P, 在命令栏输入pi, 选择'Package Control: Install Package' 安装即可。
 
 ### 插件说明
 1. ChineseLocalization
