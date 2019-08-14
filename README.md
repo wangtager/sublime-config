@@ -29,7 +29,7 @@ Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blo
 ```
 
 - 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。（ ctrl 跟 导引号 来呼叫出 command console ）
-- 如果已经安装了packagecontrol， 打开命令栏Ctrl+Shift+P, 在命令栏输入pi, 选择'Package Control: Install Package' 安装即可。
+- 如果已经安装了packagecontrol， 打开命令栏`Ctrl+Shift+P`, 在命令栏输入`pi`, 选择`Package Control: Install Package` 安装即可。
 
 ### 插件说明
 1. ChineseLocalization
