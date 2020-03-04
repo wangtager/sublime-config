@@ -19,8 +19,12 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"HTML-CSS-JS Prettify",
 		"PHP",
-		"Vintage"
+		"Pug",
+		"Stylus-Snippets",
+		"Vintage",
+		"Vuejs Snippets"
 	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,

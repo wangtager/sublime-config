@@ -1,7 +1,15 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"C:\\Users\\dell\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\channel_v3.json"
+	],
 	"in_process_packages":
 	[
+		"HTML-CSS-JS Prettify",
+		"Pug",
+		"Stylus-Snippets",
+		"Vuejs Snippets"
 	],
 	"installed_packages":
 	[
@@ -15,6 +23,7 @@
 		"Package Control",
 		"Pug",
 		"RailsCasts Colour Scheme",
+		"Restart",
 		"Sass",
 		"Stylus",
 		"Stylus-Snippets",
