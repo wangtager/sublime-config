@@ -21,10 +21,7 @@
 	[
 		"HTML-CSS-JS Prettify",
 		"PHP",
-		"Pug",
-		"Stylus-Snippets",
-		"Vintage",
-		"Vuejs Snippets"
+		"Vintage"
 	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,

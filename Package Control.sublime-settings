@@ -6,10 +6,6 @@
 	],
 	"in_process_packages":
 	[
-		"HTML-CSS-JS Prettify",
-		"Pug",
-		"Stylus-Snippets",
-		"Vuejs Snippets"
 	],
 	"installed_packages":
 	[
@@ -19,7 +15,6 @@
 		"CTags",
 		"Emmet",
 		"Git",
-		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Pug",
 		"RailsCasts Colour Scheme",
