@@ -1,5 +1,9 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"C:\\Users\\dell\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -11,10 +15,10 @@
 		"CTags",
 		"Emmet",
 		"Git",
-		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Pug",
 		"RailsCasts Colour Scheme",
+		"Restart",
 		"Sass",
 		"Stylus",
 		"Stylus-Snippets",
