@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"C:\\Users\\dell\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\channel_v3.json"
+		"https://wangtager.github.io/sublime-config/channel_v3.json"
 	],
 	"in_process_packages":
 	[
