@@ -9,6 +9,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
 		"AutoFileName",
@@ -26,6 +27,8 @@
 		"Stylus",
 		"Stylus-Snippets",
 		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SyncedSideBar",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets"

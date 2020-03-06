@@ -1,0 +1,14 @@
+// SublimeLinter Settings - User
+{
+    "lint_mode": "background",
+    "linters": {
+    /*********************这里是关键*********************/
+        "eslint": {
+            "selector": "text.html.vue, source.js - meta.attribute-with-value",
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+    /**************************************************/
+    }
+}

@@ -1,0 +1,4 @@
+{
+  // "shell_cmd": "eslint --fix $file"
+  "shell_cmd": "npx eslint --fix --ext js,vue $file"
+}
