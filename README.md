@@ -53,6 +53,11 @@ Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blo
 12. Nodejs
 功能：node代码提示
 
+### 其它
+1. channel_v3.json文件位置切换
+https://wangtager.github.io/sublime-config/channel_v3.json 远程
+C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地1
+C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地2
 
 
 
