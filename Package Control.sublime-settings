@@ -9,12 +9,15 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"AutoFileName",
 		"ChineseLocalizations",
+		"Color Highlighter",
 		"CTags",
 		"Emmet",
 		"Git",
+		"jQuery",
 		"Package Control",
 		"Pug",
 		"RailsCasts Colour Scheme",
