@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json"
+		"C:/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -19,8 +19,12 @@
 		"Color Highlighter",
 		"CTags",
 		"Emmet",
+		"Emmet Css Snippets",
 		"Git",
+		"HTML5",
+		"HTMLAttributes",
 		"ImageMagick",
+		"JavaScript Completions",
 		"jQuery",
 		"Open Folder",
 		"Package Control",
@@ -28,13 +32,14 @@
 		"RailsCasts Colour Scheme",
 		"Restart",
 		"Sass",
+		"SideBarEnhancements",
 		"Stylus",
 		"Stylus-Snippets",
 		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SyncedSideBar",
-		"Vue Syntax Highlight",
-		"Vuejs Snippets"
+		"Terminal",
+		"Vue Syntax Highlight"
 	]
 }

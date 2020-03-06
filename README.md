@@ -52,12 +52,13 @@ Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blo
 功能：快捷输入文件名(按Tab键或鼠标点击选中)
 12. Nodejs
 功能：node代码提示
+13. ctrl+shift+p 在输入ssyvue可以快速输入vue的代码片段（区分插件cVuejs Snippets和Vuejs Complete Package）
 
 ### 其它
 1. channel_v3.json文件位置切换
 https://wangtager.github.io/sublime-config/channel_v3.json 远程
 C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地1
-C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地2
+C:/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地2
 
 
 
