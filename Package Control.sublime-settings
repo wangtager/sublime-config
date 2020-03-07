@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"https://wangtager.github.io/sublime-config/channel_v3.json"
+		"C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -16,7 +16,7 @@
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Clickable URLs",
-		"Color Highlighter",
+		"ColorHelper",
 		"CTags",
 		"Emmet",
 		"Emmet Css Snippets",
