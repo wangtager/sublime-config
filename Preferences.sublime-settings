@@ -31,6 +31,8 @@
 	"ignored_packages":
 	[
 		"HTML-CSS-JS Prettify",
+		"Markdown",
+		"MarkdownPreview",
 		"PHP",
 		"Vintage"
 	],
