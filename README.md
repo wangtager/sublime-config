@@ -34,7 +34,7 @@ Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blo
 ### 插件说明
 1. ChineseLocalization
   语言包功能，切换各国语言
-2. Ctags
+2. Ctags [使用](https://www.jianshu.com/p/8e6d67bde952)
   函数跳转，我的电脑上是Alt+点击 函数名称，会跳转到相应的函数
 3. git
   git 版本控制
@@ -54,11 +54,14 @@ Control.sublime-settings 文件](https://github.com/wangtager/sublime-config/blo
 功能：node代码提示
 13. ctrl+shift+p 在输入ssyvue可以快速输入vue的代码片段（区分插件cVuejs Snippets和Vuejs Complete Package）
 
+最近打开的数量可以Main.sublime-menu文件里增加对象`{ "command": "open_recent_file", "args": {"index": 0 } },然后依次index的大小`
 ### 其它
 1. channel_v3.json文件位置切换
 https://wangtager.github.io/sublime-config/channel_v3.json 远程
 C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地1
 C:/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json 本地2
+
+快速切换项目(安装最近打开文件的插件即可)、ctags的配置、相对path跳转、markdown的预览
 
 
 

@@ -2,10 +2,11 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"C:/Users/pp/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json"
+		"C:/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/channel_v3.json"
 	],
 	"in_process_packages":
 	[
+		"MarkdownPreview"
 	],
 	"installed_packages":
 	[
@@ -27,10 +28,15 @@
 		"ImageMagick",
 		"JavaScript Completions",
 		"jQuery",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
 		"Open Folder",
 		"Package Control",
+		"ProjectManager",
 		"Pug",
 		"RailsCasts Colour Scheme",
+		"RecentTabSort",
 		"Restart",
 		"Sass",
 		"SideBarEnhancements",

@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+o"], "command": "reopen_last_file" },
+      { "keys": ["ctrl+shift+i"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+]
