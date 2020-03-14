@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
 	"binary_file_patterns":
 	[
 		"*.tga",
@@ -10,6 +10,7 @@
 		"*.jar",
 		"*.zip"
 	],
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -26,21 +27,23 @@
 		"tmp/cache",
 		".vagrant"
 	],
-	"font_size": 13,
-	"hot_exit": false,
+	"font_size": 14,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"HTML-CSS-JS Prettify",
 		"Markdown",
-		"MarkdownPreview",
 		"PHP",
 		"Vintage"
 	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
 	"scroll_past_end": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
 }
