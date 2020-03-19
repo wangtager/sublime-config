@@ -1,4 +1,16 @@
 [
-    { "keys": ["ctrl+shift+o"], "command": "reopen_last_file" },
-      { "keys": ["ctrl+shift+i"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+    {
+        "keys": ["ctrl+shift+o"],
+        "command": "reopen_last_file"
+    },
+    { "keys": ["ctrl+shift+i"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+    {
+        "keys":["f7"],
+        "caption": "SublimeREPL: Shell",
+        "command": "run_existing_window_command", "args":
+        {
+        "id": "repl_shell",
+        "file": "config/Shell/Main.sublime-menu"
+        }
+    }
 ]
